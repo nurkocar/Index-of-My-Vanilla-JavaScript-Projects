@@ -48,7 +48,7 @@
         <tr>
             <td>NavBar</td>
             <td><a href="https://github.com/nurkocar/NavBar" target="_blank">Repo details</a></td>
-            <td><a href="" target="_blank">Click here to see the project</a></td>
+            <td><a href="https://nurkocar.github.io/NavBar/" target="_blank">Click here to see the project</a></td>
             <td><img style="width:500px;" src="./images/NavBar.PNG" alt="ProjectView" height=130></td> 
         </tr>
         <tr>
